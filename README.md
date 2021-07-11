@@ -25,5 +25,9 @@ see [official howto](https://knowledge.autodesk.com/support/fusion-360/troublesh
 ## Usage :
 - Launch the "script and add-in" in the "Tools" tab, within "Add-in".
 
+## Examples :
+![example1](./7seg_2_480.gif) \[[mp4](./7seg_2.mp4)\]
+
+
 ## License :
 Apache 2.0
