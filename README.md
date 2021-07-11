@@ -1,6 +1,10 @@
-# Fusion360 JointAnimation
+# Fusion360 JointAnimation 
 
-This is Autodesk Fusion360 script to export/restore state of joints to/from CSV file. It also automatically animates and renders the model (w/ or w/o raytracing).
+This is Autodesk Fusion360 script to export/restore state of joints to/from CSV file. 
+
+It also automatically animates and renders the model (w/ or w/o raytracing).
+
+[(Japanese document 日本語版)](./README.jp.md)
 
 ---
 
