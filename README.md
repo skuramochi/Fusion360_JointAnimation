@@ -28,6 +28,8 @@ see [official howto](https://knowledge.autodesk.com/support/fusion-360/troublesh
 ## Examples :
 ![example1](./7seg_2_480.gif) \[[mp4](./7seg_2.mp4)\]
 
+![example2](./zeong_hand2_480.gif) \[[mp4](./zeong_hand2.mp4)\]
+
 
 ## License :
 Apache 2.0
